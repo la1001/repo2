@@ -1,0 +1,15 @@
+body{
+    background-image: url(/img/download.png);
+}
+.card-img{
+    height: 50%;
+    width: 50%;
+    
+}
+.card {
+    background-image: url(/img/colorful-rainbows-programming-lights-wallpaper-preview.jpg);
+    border: 5px solid darkblue;
+    height: auto;
+    width: auto;
+  }
+      
